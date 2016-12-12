@@ -11,7 +11,7 @@ Simply run the compiled executable from any unix-based terminal
   $> cd /path/to/your-project-folder
   $> ./cs-quiz
   ```
-Of course if you want to complie it from source a simple ```$> make run ``` from the source directory will do the trick.
+Of course if you want to compile it from source a simple ```$> make run ``` from the source directory will do the trick.
 
 ### Design Write-Up
 
