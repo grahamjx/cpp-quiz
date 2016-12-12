@@ -1,0 +1,41 @@
+The Eiffel Tower is located in London;f;1
+The current president of the U.S. is Bill Clinton;f;2
+The famed "Area 51" is located in Nevada;t;3
+The saying goes, "Cats are a man's best friend";f;4
+The current season is "Fall";t;5
+Bill Gates is the founder of Microsoft;t;6
+Linux is another name for Windows;f;7
+CS 163 focuses on the study of Data Structures;t;8
+Stanford University is located in California;t;9
+The world is flat;f;10
+Ireland is located in Asia;f;11
+The soccer team in Portland is named the "Clubbers";f;12
+The Nile is the longest river in the world;t;13
+Humans are said to have evolved from tigers;f;14
+Running is faster than walking;t;15
+There is 24 hours in a day;t;16
+Japan is an Island;t;17
+Colorado is a land-locked state;t;18
+The city of San Diego is located on the Oregon coast;f;19
+Linked Lists can be very frustrating!;t;20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
